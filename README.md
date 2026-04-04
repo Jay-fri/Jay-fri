@@ -10,34 +10,6 @@
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Jay-fri&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Jay-fri?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-```typescript
-const friday: Developer = {
-  name:       "Friday Joshua",
-  title:      "Fullstack Engineer & AI Expert",
-  company:    "Unimarket — Founder & Lead Engineer",
-  location:   "Nigeria 🇳🇬",
-  focus:      ["Scalable Web Apps", "AI/LLM Systems", "Open Source"],
-  languages:  ["TypeScript", "JavaScript", "Python"],
-  passion:    "Turning ambitious ideas into elegant, working software",
-  available:  true // ✅ Open to exciting opportunities
-};
-```
-
-> 💡 *I don't just write code — I architect experiences. From database to UI, I own the full stack and bring AI-powered intelligence into everything I build.*
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend
@@ -71,7 +43,22 @@ const friday: Developer = {
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,postman&perline=9" />
 </p>
 
----
+## 🧠 About Me
+
+```typescript
+const friday: Developer = {
+  name:       "Friday Joshua",
+  title:      "Fullstack Engineer & AI Expert",
+  company:    "Unimarket — Founder & Lead Engineer",
+  location:   "Nigeria 🇳🇬",
+  focus:      ["Scalable Web Apps", "AI/LLM Systems", "Open Source"],
+  languages:  ["TypeScript", "JavaScript", "Python"],
+  passion:    "Turning ambitious ideas into elegant, working software",
+  available:  true // ✅ Open to exciting opportunities
+};
+```
+
+> 💡 *I don't just write code — I architect experiences. From database to UI, I own the full stack and bring AI-powered intelligence into everything I build.*
 
 ## 🚀 Featured Project — Unimarket
 
@@ -81,15 +68,13 @@ const friday: Developer = {
 
 **Unimarket** is a marketplace platform built for students and campus communities — think eBay meets university life.
 
-- 🧩 Built with **Next.js + Node.js + MongoDB**
-- 🔐 Secure auth with **JWT & OAuth**
+- 🧩 Built with **React + Node.js + Supabase**
+- 🔐 Secure auth with **Supabase Auth**
 - 🤖 AI-powered product recommendations
 - 📦 Real-time listings & notifications
 - 🌍 Deployed and serving real users
 
 <br clear="right"/>
-
----
 
 ## 📊 GitHub Stats
 
@@ -104,23 +89,11 @@ const friday: Developer = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jay-fri&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-fri&theme=tokyo-night&bg_color=1a1a2e&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
 </div>
-
----
 
 ## 💼 Why Work With Me?
 
@@ -132,7 +105,6 @@ const friday: Developer = {
 | 🌍 **Open Source DNA** | Active contributor — I collaborate, communicate, and write clean PRs |
 | ⚡ **Fast & Decisive** | I iterate quickly, fail fast, and learn faster |
 
----
 
 ## 📬 Let's Connect
 
@@ -155,8 +127,6 @@ const friday: Developer = {
 > 🤝 *I'm open to fullstack roles, AI engineering positions, and exciting collaborations. Let's build something great.*
 
 </div>
-
----
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
