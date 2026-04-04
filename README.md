@@ -12,7 +12,7 @@
 
 ### 👋 Hi, I'm Friday
 
-Software engineer & AI expert based in Nigeria 🇳🇬. I build scalable web apps, integrate intelligent systems, and I'm the founder of **[Unimarket ng](https://github.com/Jay-fri)** — a campus marketplace platform.
+Software engineer & AI expert. I build scalable web apps, integrate intelligent systems, and I'm the founder of **[Unimarket ng](https://github.com/Jay-fri)** — a campus marketplace platform.
 
 > ✅ Open to fullstack & AI engineering roles
 
