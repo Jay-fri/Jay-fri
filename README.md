@@ -21,7 +21,7 @@ Software engineer & AI expert based in Nigeria 🇳🇬. I build scalable web ap
 ### 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,typescript" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs" />
 </p>
 
 **AI/ML:** OpenAI · LangChain · HuggingFace · Claude
@@ -39,9 +39,9 @@ Software engineer & AI expert based in Nigeria 🇳🇬. I build scalable web ap
 
 ### 📬 Connect
 
-<a href="https://linkedin.com/in/friday-joshua"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/joshua-friday-chizam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://joshua-friday.vercal.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 
 
