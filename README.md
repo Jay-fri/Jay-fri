@@ -1,91 +1,163 @@
-<!-- 🔥 Animated Header --><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua;Frontend+Engineer;Building+Scalable+Web+Apps;Clean+UI+%7C+Smooth+UX+%7C+Powerful+Systems" />
-</p>---
+<div align="center">
 
-👋 Hi, I'm Joshua
+<!-- Dynamic Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Friday%20Joshua&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20AI%20Expert%20%7C%20Founder%20%40%20Unimarket&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<h3 align="center">Frontend Engineer | Performance • UX • Systems</h3><p align="center">
-I build modern, scalable web applications with clean design, strong architecture, and smooth user experiences.
-</p>---
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%94%A7;AI+%26+LLM+Expert+%F0%9F%A4%96;Founder+of+Unimarket+%F0%9F%8C%8D;Open+Source+Contributor+%F0%9F%92%9B;Building+the+future%2C+one+line+at+a+time..." alt="Typing SVG" />
+</a>
 
-🧠 About Me
+<br/>
 
-- 🎓 Student at Igbinedion University, Nigeria
-- 💻 9+ years experience in web development
-- 🚀 Building <b>UniMarket (Campus Connect NG)</b>
-- 🧩 Strong system-thinking & problem-solving mindset
-- ⚡ Focused on performance, scalability & real-world products
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=Jay-fri&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Jay-fri?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers" />
+
+</div>
 
 ---
 
-🛠️ Tech Stack
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,supabase,nodejs,git,github,vscode&theme=light" />
-</p>---
+```typescript
+const friday: Developer = {
+  name:       "Friday Joshua",
+  title:      "Fullstack Engineer & AI Expert",
+  company:    "Unimarket — Founder & Lead Engineer",
+  location:   "Nigeria 🇳🇬",
+  focus:      ["Scalable Web Apps", "AI/LLM Systems", "Open Source"],
+  languages:  ["TypeScript", "JavaScript", "Python"],
+  passion:    "Turning ambitious ideas into elegant, working software",
+  available:  true // ✅ Open to exciting opportunities
+};
+```
 
-🚀 Featured Project
+> 💡 *I don't just write code — I architect experiences. From database to UI, I own the full stack and bring AI-powered intelligence into everything I build.*
 
-🛒 UniMarket (Campus Connect NG)
+---
 
-A full-stack marketplace for Nigerian university students.
+## 🛠️ Tech Stack & Tools
 
-- 🔐 Authentication system
-- 🛍️ Buy & sell platform
-- 🧾 Cart & checkout
-- 📸 Image uploads
-- 📱 Responsive modern UI
-
+### 🌐 Frontend
 <p>
-  <a href="https://unimarket.com.ng">
-    <img src="https://img.shields.io/badge/Live%20Project-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>---
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite&perline=9" />
+</p>
 
-📊 GitHub Stats
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql,rest&perline=9" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
-</p>---
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&perline=9" />
+</p>
 
-🐍 Contribution Snake
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=9" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>---
-
-🌍 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>---
-
-👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00C853&style=flat" />
-</p>---
-
-⚡ Personal Edge
-
-I don’t just build apps — I engineer systems.
-
-I focus on:
-
-- Clean architecture
-- Scalable solutions
-- Smooth, intuitive user experience
+### 🔧 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,postman&perline=9" />
+</p>
 
 ---
 
-<p align="center">
-  💡 <i>"Build clean. Build fast. Build things that matter."</i>
-</p>
+## 🚀 Featured Project — Unimarket
+
+<a href="https://github.com/Jay-fri">
+  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-fri&repo=unimarket&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa" />
+</a>
+
+**Unimarket** is a marketplace platform built for students and campus communities — think eBay meets university life.
+
+- 🧩 Built with **Next.js + Node.js + MongoDB**
+- 🔐 Secure auth with **JWT & OAuth**
+- 🤖 AI-powered product recommendations
+- 📦 Real-time listings & notifications
+- 🌍 Deployed and serving real users
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jay-fri&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-fri&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-fri&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay-fri&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-fri&theme=tokyo-night&bg_color=1a1a2e&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
+</div>
+
+---
+
+## 💼 Why Work With Me?
+
+| ✅ What I Bring | 💡 Details |
+|---|---|
+| 🧱 **True Fullstack** | I own the entire product — from schema design to pixel-perfect UI |
+| 🤖 **AI-Native Thinking** | I integrate LLMs and intelligent features as a first-class concern |
+| 🚀 **Founder Mindset** | I've shipped real products to real users. I think in outcomes, not tickets |
+| 🌍 **Open Source DNA** | Active contributor — I collaborate, communicate, and write clean PRs |
+| ⚡ **Fast & Decisive** | I iterate quickly, fail fast, and learn faster |
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/friday-joshua">
+  <img src="https://img.shields.io/badge/LinkedIn-Friday%20Joshua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-fridayjoshua.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Jay-fri">
+  <img src="https://img.shields.io/badge/GitHub-Jay--fri-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 🤝 *I'm open to fullstack roles, AI engineering positions, and exciting collaborations. Let's build something great.*
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+</div>
