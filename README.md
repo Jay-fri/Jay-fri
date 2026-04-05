@@ -28,14 +28,6 @@ Software engineer & AI expert. I build scalable web apps, integrate intelligent 
 
 
 
-### 📊 Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jay-fri&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&hide_border=false&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-fri&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
-</div>
-
-
 
 ### 📬 Connect
 
